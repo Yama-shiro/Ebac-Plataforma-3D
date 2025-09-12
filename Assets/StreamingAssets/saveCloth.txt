@@ -1,0 +1,5 @@
+{
+    "typeCloth": 2,
+    "duration": 999.0,
+    "damageMultiply": 0.5
+}
